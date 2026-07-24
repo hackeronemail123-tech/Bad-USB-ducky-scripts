@@ -32,6 +32,7 @@ These scripts demonstrate USB attack vectors that systems administrators should 
    - Useful for tricking your boss that you cant work
 
   **disable-windows-defender**
+
 5. - once you're in the dekstop, it disables the devices defender
    - Not reccomended to disable windows defender
 ---
