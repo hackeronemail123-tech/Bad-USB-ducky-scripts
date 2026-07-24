@@ -27,6 +27,8 @@ These scripts demonstrate USB attack vectors that systems administrators should 
    - Shows limitations of short PIN security requirements
    - Can inform policy decisions on lockout mechanisms
 
+   **fake-windows-update-screen**
+4. - opens the devices chrome browser and goes to the fake windows update screen website
 ---
 
 ⚖️ LEGAL DISCLAIMER:
