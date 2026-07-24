@@ -1,0 +1,23 @@
+﻿DELAY 100
+GUI
+DELAY 100
+STRING chrome
+DELAY 100
+ENTER
+DELAY 1300
+CTRL l
+DELAY 100
+STRING chrome://password-manager/passwords
+ENTER
+DELAY 100
+CTRL t
+DELAY 500
+CTRL l
+STRING https://myaccount.google.com/security
+ENTER
+DELAY 200
+CTRL t
+DELAY 500
+CTRL l
+STRING https://myaccount.google.com/personal-info
+ENTER

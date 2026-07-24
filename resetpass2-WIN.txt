@@ -1,0 +1,5 @@
+﻿DELAY 300
+STRING net user
+ENTER
+DELAY 300
+STRING net user (type the username of the account I want to bypass. After that tap: space,*  But if it says:the system is not authorative . After doing the above, go to 3,4) DELETE THE PARENTHESIS AND THIS
