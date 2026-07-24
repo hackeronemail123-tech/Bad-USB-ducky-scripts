@@ -29,6 +29,11 @@ These scripts demonstrate USB attack vectors that systems administrators should 
 
    **fake-windows-update-screen**
 4. - opens the devices chrome browser and goes to the fake windows update screen website
+   - Useful for tricking your boss that you cant work
+
+  **disable-windows-defender**
+5. - once you're in the dekstop, it disables the devices defender
+   - Not reccomended to disable windows defender
 ---
 
 ⚖️ LEGAL DISCLAIMER:
